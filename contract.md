@@ -1,9 +1,9 @@
-
 ---
 layout: page
-title: Team Contract
-subtitle: Grace, Abby and Maria's Team Contract
+title: Contract
+subtitle: Our rules. 
 ---
+
 # **Guiding Principles**
 * collaboration
 * respect
