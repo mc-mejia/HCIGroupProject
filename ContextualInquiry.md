@@ -1,5 +1,5 @@
 
-
+**Contextual Inquiry Plan**
 
 One group of people who may find our design helpful is parents who need a way to keep their young, active children engaged 
 with the art while visiting the museum. Another group of people who may use our design is art history students. Our app could 
