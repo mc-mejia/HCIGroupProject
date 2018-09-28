@@ -15,6 +15,8 @@ a vested interest in our design. We would use this interview to predict how our 
 Would we be filling a need that exists for most students, or is our design more niche? While we have not yet reached out to a parent, 
 giftshop employee, or average Williams student, we have contacted the students in ARTH 104 and 222 by email and are hoping to receive a 
 response soon.
+	
+	
 	As apprentices, we’ll ask our contextual interview participant to treat us as though we have never visited a museum before 
   and only have the vaguest idea of what a museum is. We would assume this role as a way to access and observe the 
   participant’s own individual mode of interacting with a museum without unintentionally biasing them with our own 
