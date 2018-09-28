@@ -1,4 +1,4 @@
-# **Contextual Inquiry Plan**
+
 
 
 One group of people who may find our design helpful is parents who need a way to keep their young, active children engaged 
