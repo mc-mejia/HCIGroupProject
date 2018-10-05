@@ -25,7 +25,7 @@ thinking about the art in relation to the artist
 
 ## Affinity Diagram
 
-![Affinity Diagram](/img/affinity_design.jpeg "Affinity Diagram")
+![Affinity Diagram](/img/affinity_design.jpeg)
 
 ## Contextual Inquiries
 
