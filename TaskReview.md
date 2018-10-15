@@ -40,4 +40,6 @@ Difficulty level: hard
 
 Maggie is a high school teacher and she wants to try out a unit with her students about art history. She brings them to the art museum, and the group goes on a guided tour. Many of the students don’t seem to be listening to the tour guide, and nobody takes notes. Maggie worries that her students aren’t engaging with the art, and wishes there was a way they could bring their own thoughts to the table while also learning historical content. Coming to the museum seemed better than a powerpoint presentation, but now Maggie thinks she needs to make this field trip even more interactive.
 
+# Our Sketches
 
+![Grace's Sketches] GM_sketches.jpeg
