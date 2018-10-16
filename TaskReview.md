@@ -40,6 +40,22 @@ Difficulty level: hard
 
 Maggie is a high school teacher and she wants to try out a unit with her students about art history. She brings them to the art museum, and the group goes on a guided tour. Many of the students don’t seem to be listening to the tour guide, and nobody takes notes. Maggie worries that her students aren’t engaging with the art, and wishes there was a way they could bring their own thoughts to the table while also learning historical content. Coming to the museum seemed better than a powerpoint presentation, but now Maggie thinks she needs to make this field trip even more interactive.
 
+## Recieving Validation or Rewards for Good Interpretations
+
+New Task
+
+Dificulty level: hard
+
+Rebecca is a college student that has some background knowledge in art history. When she visits an art museum, she likes to create her own interpretations of the art pieces. However, she never knows if her interpretations are correct or close to the artist's original message. She consults the plaque next to the art but only finds general information such as its medium, artist and title. Rebecca attempts to search online for an official interpretation, but the search results give a variety of interpretations without any measure for validity or expertise from the users that posted them. Rebecca's inability to validate her interpretations discourages her from trying more; she has no way of measuring her improvements and no incentive to continue. 
+
+## Staring at the Art Without Engagement
+
+Old Task
+
+Dificulty level: easy
+
+Sterling's friends convince him to visit an art museum with them even though he has no background in art. He quickly notices that they stare at the art pieces for a few moments before commenting on the significance of the piece or their emotions towards it. However, when Sterling attempts to do the same he sees and feels nothing. Sterling does not recognize any key features or themes within the painting and cannot empathize with the original artist. As a result, Sterling simply follows his friends around the museum and mimics their stares at the art without thinking anything. He soon becomes bored and decides to not accompany his friends the next time they visit an art museum. 
+
 # Our Sketches
 
 ![Grace's Sketches](/img/GM_sketches.jpeg)
