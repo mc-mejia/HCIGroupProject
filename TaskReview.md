@@ -60,3 +60,4 @@ Sterling's friends convince him to visit an art museum with them even though he 
 
 ![Grace's Sketches](/img/GM_sketches.jpeg)
 ![Abby's Sketches](/img/ad.jpg)
+![Maria's Sketches](/img/mm_sketches.jpg)
