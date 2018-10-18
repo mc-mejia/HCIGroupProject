@@ -66,4 +66,26 @@ The smartwatches could also be used for learning purposes in a less academically
 
 ## Mobile App
 
+### Task 1: Earn Rewards and Recieve Validation for Art Interpretations
 
+Museum visitors who download the phone app can post their opinions on the different art pieces into a public forum contained within the app. When certain posts become very popular, controversial, or verified, the user unlocks an achievement. There can also be other categories for miscellaneous posts such as art-specific humor or creativity. Rewards are based off of others opinions on your posts. A user would approach a painting, write down their comments within the app and post their comment. 
+
+![Reward Task Sketch](/img/phone_task1.png)
+
+### Task 2: Create a Record of a Visit to a Museum
+
+When a user wants to look back at their museum visit, they can opt to have their location tracked by the app so that their walking route is recorded. The map itself is interactive; the red squares indicate a piece of art and can be selected for further information. This feature would also be useful for general way-finding around a museum because the phone app could keep track of the users current location. Certain sections of the map can be labeled based on common themes. A user would open the app upon first arriving to the museum and simply walk around. They can later check their current location and their path when they open their phone. 
+
+![Record Visit Sketch](/img/phone_task2.png)
+
+### Task 3: Use an Interactive and Educational Game to Teach/Learn
+
+For those museum visitors that want a more interactive museum experience, they can open the app, avigate to the challenges/game section, and try to find the pieces described by the different prompts. These prompts could ask users to find art pieces based on a variety of different factors such as: artist, category, time period, geographical location, color scheme, symbols, etc. The app could also feature a create-your-own game section for both students and professors. Students could then look for their professor's version of the app's game and use it for studying or homework. A user would open the app upon first arriving to the museum, read the prompts and see if they encounter any paintings that satisfies a category. The app itself would use image recognition to verify when a user correctly chooses a piece. 
+
+![Game Sketch](/img/phone_task3.png)
+
+### Task 4: Facilitate Collaboration and Conversation About Art
+
+When a museum visitor is pondering over a piece, they may not want to discuss the art outloud in order to not disturb the general atmosphere of the museum or they may not have anyone to discuss with at the moment. So the user opens the app and posts their opinions of the piece in the live forum. Any other visitors who happen to be nearby could see the recent comment on the piece and possibly strike up a conversation based on the comment. Within a group of friends, the forum could provide a place for all users to feel heard. 
+
+![Collaboration Sketch](/img/phone_task4.png)
