@@ -40,20 +40,28 @@ This design is a smartwatch app that can be downloaded and used on a museum visi
 
 The smartwatch would achieve this task in a manner similar to a FitBit or other wearable fitness tool, and use vibrations and on-screen celebration graphics to signal achievements. The watch would keep track of the number of interpretations you’ve submitted, and when you reach a certain number (e.g. 10), it would vibrate to alert the user and inform them of a small award : “You’ve earned a gold star! Redeem 20 gold stars at the gift shop for a prize!”. This system can be implemented for numerous categories of validation, not only number of interpretations submitted. For example, if more than x people share a similar interpretation, they could each receive a “Great Minds Think Alike” badge, and be alerted on their watch.
 
+![Watch Rewards](/img/watch_task1.pdf)
+
 ### Task 2: Facilitate Collaboration and Conversation About Art
 
 For this task, using earbuds paired with the smartwatch would be useful (and possibly necessary). At each piece of art, users would have the option of listening to others’ interpretations of the same piece of art. They could filter these to find similar, different, unusual, or historically/factually based interpretations. The user could then choose to respond to a particular interpretation with their own ideas.
 This implementation idea is inspired by PIN ( Karl Bocker, Lester Lee, Alyssa Wang) : http://www.lester-lee.com/curious-places//2018/03/08/design_checkin/.
+
+![Watch Collab](/img/watch_task2.pdf)
 
 
 ### Task 3: Create a More Mentally Active Museum Visit
 
 The smartwatch would prompt mental engagement with the art by encouraging users to submit interpretations. If the watch senses that the user has been in front of a painting for some time without submitting an interpretation, it would give a small vibration to alert the user to a new message, and display a simple prompt screen (something like: Thoughts?). This would serve to remind the user that they have a tool, readily available on their wrist, to help them interpret and learn about art while receiving rewards. This implementation is encouraging without being intrusive or annoying, and could be easily ignored if the user so wishes.
 
+![Watch Active](/img/watch_task3.pdf)
+
 ### Task 4: Use an Interactive and Educational Game to Teach
 
 For students of art history (or, potentially, other fields as well) the smart watch can be used as a convenient way to review or learn history intentions and interpretations of art by selecting and listening to the “historical” option, as described in Task 2 for this implementation. The student could even quiz themselves by submitting interpretations that they think are in line with the expert opinion, and then comparing the two to check. 
 The smartwatches could also be used for learning purposes in a less academically constrained way. If a teacher is trying to encourage her students to engage with art during a field trip to the museum, starting a friendly competition of who can accrue the most gold stars might be an effective way to encourage students to think about what they are seeing.
+
+![Watch Teach](/img/watch_task4.pdf)
 
 
 ## Mobile App
