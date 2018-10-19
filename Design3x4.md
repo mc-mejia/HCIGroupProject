@@ -36,17 +36,20 @@ This design is a desktop computer that will sit in an unobtrusive location in th
 ### Task 1: Facilitate Collaboration and Conversation About Art 
 
 When a user enters their interpretation of an artwork’s meaning, they will be presented with other visitor’s interpretations. If they click on a specific interpretation, they can add a comment agreeing or disagreeing with that user and read a record of previous comments. They can also sign up to receive an email notification when someone comments on their interpretation meaning they can get feedback about their ideas. A moderator will regularly check these forums and delete spam and inappropriate comments. 
+![Computer Collaboration](/img/collab.jpg)
 
 ### Task 2: Create a More Mentally Active Museum Visit
 When a user enters the museum they will be handed a pamphlet asking them to consider engaging in the project of interpreting the art and creating a collective database of visitor interpretations. This will give them a question to keep in mind as they walk through the gallery and look at the art. In addition, if they are feeling under-stimulated as they passively look at art, they can move to the in-gallery computer where it will prompt them to look at certain artworks and enter an interpretation. Thus, they will have a mission and an activity as part of their museum visit.
+![Computer Activity](/img/interpret.jpg)
 
 ### Task 3: Earn Rewards and Receive Validation for Art Interpretation
 
 When a user enters an interpretation, the computer will use an AI algorithm to analyze it and quickly return some validating metrics. For example, the app will show you other visitors who had similar responses to the artworks if they exist. If none exist, then they will compliment you for your unique interpretation. In addition, there will be rewards given out for the number of interpretations you produce. You will enter the date and your email address for each interpretation and if you do 10 on a given day then you will get a small discount in the giftshop, if you do 20 then you will get a slightly larger discount, and if you do 50 you will get a small free gift (numbers subject to change!). 
+![Computer Rewards](/img/reward.jpg)
 
 ### Task 4: Create A Record of a Visit to the Museum
 When you submit an interpretation of an artwork, you can click a box to ask that your interpretation be emailed to you. Alongside your interpretation, the email will include a picture of the artwork, the name of the artist, the date of the artist and one or two fun facts related to the work. This will allow you to check your email later and remember the art you connected with and do more research should you choose.  In addition, you can look back years later and see if your interpretation of a piece of artwork has changed over time.
-
+![Computer Memory](/img/memory.jpg)
 
 ## Smartwatch
 
