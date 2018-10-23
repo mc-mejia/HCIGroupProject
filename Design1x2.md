@@ -7,3 +7,7 @@ We chose to pursue our Smartwatch design because it’s mobility allows for visi
 
 ![Collaborate Storyboard](/img/Task1Story.png)
 
+## Task 2 Storyboard: Earning Rewards
+
+![Reward Storyboard](/img/storyboard2.png)
+
