@@ -7,7 +7,10 @@ We chose to pursue our Smartwatch design because it’s mobility allows for visi
 
 ![Collaborate Storyboard](/img/Task1Story.png)
 
+This storyboard shows a visitor enterring the museum. The visitor either pulls out his or her personal smartwatch or borrows one from the museum. Then the visitor collaboratively interprets the art, adding their own ideas to a larger conversation about the piece and receiving inspiration from the ideas of other visitors.
+
 ## Task 2 Storyboard: Earning Rewards
 
 ![Reward Storyboard](/img/storyboard2.png)
 
+This storyboard shows a visitor interpretting a work of art by speaking to the smart watch. Based on the interpretation, the user recieves points which they can cash in as a discount at the gift shop!
