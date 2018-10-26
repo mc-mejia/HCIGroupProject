@@ -19,7 +19,7 @@ Our design is intended for use by people who become bored in traditional museums
 
 ## Themes and Proposed Design Sketches
 
-Original design sketches can be seen [here](http://mc-mejia.github.io/HCIGroupProject/Design3x4/)
+Original design sketches can be seen [here](http://mc-mejia.github.io/HCIGroupProject/Design3x4/).
 
 ### Smartwatch
 
