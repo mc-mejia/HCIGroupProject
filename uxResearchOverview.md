@@ -1,4 +1,3 @@
-# User Experience Research Overview
 # InterprArt
 ## Team 
 Grace Murray, Abby Miller and Maria Mejia 
