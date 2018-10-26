@@ -1,3 +1,6 @@
+# How did we get here? : InterprArt Design
+
+
 ## Team 
 * Abby Miller, Designated Delegator
 * Grace Murray, Logic Liason
