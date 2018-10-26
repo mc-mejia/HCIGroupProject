@@ -1,4 +1,4 @@
-# How did we get here? : InterprArt Design
+# Research Review: InterprArt
 
 
 ## Team 
