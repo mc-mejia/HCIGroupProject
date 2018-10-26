@@ -56,4 +56,4 @@ Betty is a student who has never taken a class in the art or art history departm
 ![Reward Storyboard](/img/RewardStory.jpg)
 
 ### Presentation
-To see presentation click [here](/User Research Experience Review.pdf).
+To see presentation click [here](/UXreview.pdf).
