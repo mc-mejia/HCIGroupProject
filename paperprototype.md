@@ -6,7 +6,4 @@ Our watch uses location tracking to sense which work of art the user stands in f
 ![listenspeak](/img/listenspeak.jpg)
 If they click listen, then they are given a menu of options for different types of interpretations they can listen to. They can hear statements from others about how the work of art made them feel, they can listen to questions about the art, they can hear expert interpretations of the art or hear controversial interpretations. The user clicks on the catagory that corresponds to their interest. 
 ![menu](/img/menu.JPG)
-![reward](/img/congrats.jpg)
-![response](/img/chainrespond.jpg)
-![listen](/img/listen.jpg)
-![recording](/img/recording.jpg)
+# Task 2: Recieve Rewards and Validation for Interpretations 
