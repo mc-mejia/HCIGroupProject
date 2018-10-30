@@ -16,4 +16,7 @@ Once done listening, the screen again changes to allow the user to choose to res
 ![chainrespond](/img/chainrespond.JPG)
 If the user chooses to respond, the recording screen would then appear to allow them to create this response.
 ![recording](/img/recording.JPG)
+The recording screen provides a status bar that allows a user to know when the watch has started recording. They also have the option to stop and restart the recording at any time.
+![congrats screen](/img/congrats.jpg)
+If the recording of the user provides insights that are similar to expert opinions or provides some sort of unique feedback. The user will then be notified on the watch, and this screen will appear to confirm the validation of their interpretation. 
 # Task 2: Recieve Rewards and Validation for Interpretations 
