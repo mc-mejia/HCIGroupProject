@@ -15,5 +15,5 @@ The listening screen is again displayed while they listen to these responses.
 Once done listening, the screen again changes to allow the user to choose to respond to the interpretation.
 ![chainrespond](/img/chainrespond.JPG)
 If the user chooses to respond, the recording screen would then appear to allow them to create this response.
-![recording](/img/recording.jpg)
+![recording](/img/recording.JPG)
 # Task 2: Recieve Rewards and Validation for Interpretations 
