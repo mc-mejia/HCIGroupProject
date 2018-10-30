@@ -8,7 +8,7 @@ If they click listen, then they are given a menu of options for different types 
 ![menu](/img/menu.JPG)
 Once the category is selected, the screen changes to display buttons that can pause, play, fastforward, or rewind the audio, and the interpretations start playing.
 ![listening](/img/listen.jpg)
-In the even that other users have responded to a particular interpretation, a notification pops up alerting the user to the chain and allowing them to listen to the responses, if they so choose. On the left of the screen are a series of numbered buttons that correspond to responses in the chain, which prevents the user from having to listen to all interpretations.
+In the event that other users have responded to a particular interpretation, a notification pops up alerting the user to the chain and allowing them to listen to the responses, if they so choose. On the left of the screen are a series of numbered buttons that correspond to responses in the chain, which prevents the user from having to listen to all interpretations.
 ![chainlisten](/img/chainlisten.jpg)
 The listening screen is again displayed while they listen to these responses. 
 ![listening](/img/listen.jpg)
