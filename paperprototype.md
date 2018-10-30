@@ -21,6 +21,6 @@ The user can either choose listen to other interpretations or record their own.
 ![listenspeak](/img/listenspeak.jpg)
 If they choose record, the recording screen provides a status bar that allows a user to know when the watch has started recording. They also have the option to stop and restart the recording at any time.
 ![recording](/img/recording.JPG)
-If the recording of the user provides insights that are similar to expert opinions or provides some sort of unique feedback. The user will then be notified on the watch, and this screen will appear to confirm the validation of their interpretation.
-This screen will also correspond to a reward of some sort (either a discount at the giftshop or an invitation to view special collections in the museums or an invitation to a special event in the museum for frequent interpretters to discuss art and enjoy the museum space as the setting for a party!)
+The watch enters their recording into their database and quickly analyzes it. If in the recording, the user provides insights that are similar to expert opinions or provides some sort of unique feedback. The user will then be notified on the watch, and this screen will appear to confirm the validation of their interpretation.
 ![congrats screen](/img/congrats.jpg)
+This screen will also correspond to a reward of some sort (either a discount at the giftshop or an invitation to view special collections in the museums or an invitation to a special event in the museum for frequent interpretters to discuss art and enjoy the museum space as the setting for a party!)
