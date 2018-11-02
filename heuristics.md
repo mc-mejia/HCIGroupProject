@@ -8,8 +8,15 @@
 #### Evaluated by: Casey Pelz  
 ![Heuristic Evluation 2](/img/hEval2.png)
 
-# Summary Table
+
+# Overview Image of Revised Prototype
+![overview image](/img/overview.jpeg)
+
+
+# Summary Table of Revisons
 ![table](/img/summarytable.png)
+
+# Revisions: Before and After
 
 ## Revision 1
 
