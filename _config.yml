@@ -26,8 +26,9 @@ navbar-links:
   General:
   - Proposal: "proposal"
   - Contract: "contract"
-  Contextual Inquiry: 
-  - Plan: "ContextualInquiry"
+  UX Research:
+  - Contextual Inquiry: 
+  - - Plan: "ContextualInquiry"
   - Check In: "CI-checkin"
   - Review: "CI-review"
   Task Review: "TaskReview"
