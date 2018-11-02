@@ -74,5 +74,5 @@ Image o: Confusing chain metaphor
 ![chain](/img/imageo.jpeg)
 
 Image p: Changed metaphor to a "Community Chat," where you listen to "Threads"
-![chats and threads](/img/imagep.jpeg)
+![chats and threads](/img/imagej1.jpeg)
 
