@@ -58,7 +58,7 @@ Image k: Recording screen doesn't clearly show time recorded
 ![no time](/img/imagek.jpeg)
 
 Image l: Added time bar
-![time](/img/imagek.jpeg)
+![time](/img/imagel.jpeg)
 
 ## Revision 7
 
