@@ -31,7 +31,7 @@ Image b: Added home button
 Image c: Unclear reward system
 ![unclear reward](/img/imagec.jpeg)
 
-Image d: Clarified reward system
+Image d: Clarified reward system by including graphic of unfilled stars, so the user can see their progress until they earn a reward. Changed language of "Experts Agree," to be "You're an expert!". This change is meant to make the reward more general: the person can be an expert on using interprArt, even if they are not an art expert.
 ![clear reward](/img/imaged.jpeg)
 
 ## Revision 3
