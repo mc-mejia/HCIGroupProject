@@ -26,15 +26,14 @@ navbar-links:
   General:
   - Proposal: "proposal"
   - Contract: "contract"
-  Contextual Inquiry: 
-  - Plan: "ContextualInquiry"
-  - Check In: "CI-checkin"
-  - Review: "CI-review"
-  Task Analysis:
+  UX Research:
+  - Contextual Inquiry Plan: "ContextualInquiry"
+  - CI Check In: "CI-checkin"
+  - CI Review: "CI-review"
   - Task Review: "TaskReview"
   - 3x4: "Design3x4"
   - 1x2: "Design1x2"
-  UX Research Overview: "uxResearchOverview"
+  - Overview: "uxResearchOverview"
   Prototyping: 
   - Paper Prototype: "paperprototype"
   - Heuristic Evaluation: "heuristics"
