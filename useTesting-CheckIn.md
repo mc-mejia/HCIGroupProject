@@ -2,7 +2,7 @@
 
 ## Cognitive Walkthrough Table
 
-[Cognitive Walkthrough Table](/img/CognitiveTable.png)
+![Cognitive Walkthrough Table](/img/CognitiveTable.png)
 
 ## Usability Test Report
 
