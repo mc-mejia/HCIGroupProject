@@ -43,5 +43,16 @@ Also, our use of a popup window is an effective way of preventing any errors dur
 ## A Walkthrough of Our Main Tasks
 
 ### Receive Rewards and/or Validation for Interpretations
+Home Screen, select record:
+
+Record Screen, select recording button:
+
+Stop recording and select submit: 
+
+Ex-out of "Submitted!" and First Record Screen appears. Read and ex-out.
+
+Star Screen. Press Back or Home icons to return home.
+
+
 
 ### Facilitate Conversation About Art
