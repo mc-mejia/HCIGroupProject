@@ -22,7 +22,7 @@ Clarifying the “next” and “previous” arrows on the Listening screens was
 
 ## Overview Image of Our Final Prototype
 
-## A Walkthrough Our Main Tasks
+## A Walkthrough of Our Main Tasks
 
 ### Receive Rewards and/or Validation for Interpretations
 
