@@ -63,13 +63,18 @@ Star Screen. Press Back or Home icons to return home.
 
 ### Facilitate Conversation About Art
 Home Screen, select listen.
+![Home Screen](/img/task1_1.jpeg)
 
 Category Screen, select category.
+![Category Screen](/img/task2_2.jpeg)
 
 Listen Screen, navigate using arrows and record response as desired.
+![Listen Screen](/img/task2_3.jpeg)
 
 Community Chat Alert pops up. Choose to listen.
+![Chat Alert](/img/task2_4.jpeg)
 
 Navigate through chat using arrows (consistent with Listen Screen), and respond as desired.
+![Chat Screen](/img/task2_5.jpeg)
 
 
