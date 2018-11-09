@@ -14,6 +14,12 @@ For our second usability test, our user was a junior political science major, K.
 
 ## Table of Results
 
+## Two of Our Revisions, In More Detail
+
+### First Revision
+
+Clarifying the “next” and “previous” arrows on the Listening screens was a simple, but very important modification. Ambiguous icons can cause frustration and confusion. We saw this first hand with participant K as she attempted to leave the listening screen, but instead kept hearing a new interpretation (the exact opposite of what she wanted!). A frustration like this could cause someone to want to quit the app entirely, especially because the app is providing an elective service, not meeting a necessity. Improving the ease of interaction and reducing frustration increases the chances that users would actually use our app. This is a perfect example of how design the design process focuses on functionality rather than aesthetics. The simple arrows may look cleaner, but the labels increase usability.
+
 ## Overview Image of Our Final Prototype
 
 ## A Walkthrough Our Main Tasks
