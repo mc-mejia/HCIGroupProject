@@ -43,16 +43,16 @@ Also, our use of a popup window is an effective way of preventing any errors dur
 ## A Walkthrough of Our Main Tasks
 
 ### Receive Rewards and/or Validation for Interpretations
-Home Screen, select record:
+Home Screen, select record.
 ![Home Screen](/img/task1_1.jpeg)
 
-Record Screen, select recording button:
+Record Screen, select recording button.
 ![Record Screen](/img/task1_2.jpeg)
 
-Stop recording and select submit: 
+Stop recording and select submit.
 ![Submit](/img/task1_3.jpeg)
 
-Ex-out of "Submitted!"
+Ex-out of "Submitted!" :
 ![Submitted Pop-up](/img/task1_4.jpeg)
 
 First-Star screen appears. Read message and ex-out.
@@ -61,6 +61,15 @@ First-Star screen appears. Read message and ex-out.
 Star Screen. Press Back or Home icons to return home.
 ![Star Screen](/img/task1_6.jpeg)
 
-
-
 ### Facilitate Conversation About Art
+Home Screen, select listen.
+
+Category Screen, select category.
+
+Listen Screen, navigate using arrows and record response as desired.
+
+Community Chat Alert pops up. Choose to listen.
+
+Navigate through chat using arrows (consistent with Listen Screen), and respond as desired.
+
+
