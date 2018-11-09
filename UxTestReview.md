@@ -52,10 +52,10 @@ Record Screen, select recording button:
 Stop recording and select submit: 
 ![Submit](/img/task1_3.jpeg)
 
-Ex-out of "Submitted!" and First Record Screen appears.
+Ex-out of "Submitted!"
 ![Submitted Pop-up](/img/task1_4.jpeg)
 
-Read message and ex-out.
+First-Star screen appears. Read message and ex-out.
 ![Star Explanation](/img/task1_5.jpeg)
 
 Star Screen. Press Back or Home icons to return home.
