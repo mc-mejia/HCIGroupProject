@@ -44,14 +44,22 @@ Also, our use of a popup window is an effective way of preventing any errors dur
 
 ### Receive Rewards and/or Validation for Interpretations
 Home Screen, select record:
+![Home Screen](/img/task1_1.jpeg)
 
 Record Screen, select recording button:
+![Record Screen](/img/task1_2.jpeg)
 
 Stop recording and select submit: 
+![Submit](/img/task1_3.jpeg)
 
-Ex-out of "Submitted!" and First Record Screen appears. Read and ex-out.
+Ex-out of "Submitted!" and First Record Screen appears.
+![Submitted Pop-up](/img/task1_4.jpeg)
+
+Read message and ex-out.
+![Star Explanation](/img/task1_5.jpeg)
 
 Star Screen. Press Back or Home icons to return home.
+![Star Screen](/img/task1_6.jpeg)
 
 
 
