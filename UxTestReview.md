@@ -38,7 +38,7 @@ Also, our use of a popup window is an effective way of preventing any errors dur
 
 ## Overview Image of Our Final Prototype
 
-![Overview of Paper Prototype](/img/FinalOverview.png)
+![Overview of Paper Prototype](/img/FinalOverview.jpeg)
 
 ## A Walkthrough of Our Main Tasks
 
