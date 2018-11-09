@@ -22,11 +22,19 @@ The third usability test was conducted in a group study room in Schow library in
 ![Final Table: Fourth Row](/img/FinalRevisions4.png)
 ![Final Table: Fifth Row](/img/FinalRevisions5.png)
 
-## Two of Our Revisions, In More Detail
+## Three of Our Revisions, In More Detail
 
 ### First Revision
 
 Clarifying the “next” and “previous” arrows on the Listening screens was a simple, but very important modification. Ambiguous icons can cause frustration and confusion. We saw this first hand with participant K as she attempted to leave the listening screen, but instead kept hearing a new interpretation (the exact opposite of what she wanted!). A frustration like this could cause someone to want to quit the app entirely, especially because the app is providing an elective service, not meeting a necessity. Improving the ease of interaction and reducing frustration increases the chances that users would actually use our app. This is a perfect example of how design the design process focuses on functionality rather than aesthetics. The simple arrows may look cleaner, but the labels increase usability.
+
+### Second Revision
+
+Our decision to add a stop and submit button on our record screen was an effective alteration that provided the user with enough feedback to carry out the task. We may reconsider the use of our circular arrow in the screen to be used to playback the user’s recording instead of restarting the recording. We could have the recording restart if the user selects the record button for a third time after already stopping their initial recording. This will probably feel more intuitive and natural to most people. It will also ensure that no user is frustrated for accidentally losing their recording. The interpretations are not meant to be one line comments so it may be very upsetting to a user to lose their well-pondered thoughts. 
+
+### Third Revision
+
+Also, our use of a popup window is an effective way of preventing any errors during the recording process. By stopping the user for a moment, we ensure that they have genuinely thought through their interpretation and decided that it was exactly what they wanted to say to the rest of the WCMA community. Moreover, the second pop up, the submitted screen, provides some feedback to the user that ensures them that their interpretation has been properly uploaded to the community thread.  
 
 ## Overview Image of Our Final Prototype
 
