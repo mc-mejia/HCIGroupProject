@@ -38,7 +38,8 @@ navbar-links:
   - Paper Prototype: "paperprototype"
   - Heuristic Evaluation: "heuristics"
   Usability Testing:
-  - Usability Testing Review: "useTesting-CheckIn"
+  - Usability Testing Check-In: "useTesting-CheckIn"
+  - Usability Testing Review: "UxTestReview"
 
 avatar: "/img/avatar-icon.png"
 
