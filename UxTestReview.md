@@ -16,6 +16,12 @@ The third usability test was conducted in a group study room in Schow library in
 
 ## Table of Results
 
+![Final Table: First Row](/img/FinalRevisions1.png)
+![Final Table: Second Row](/img/FinalRevisions2.png)
+![Final Table: Third Row](/img/FinalRevisions3.png)
+![Final Table: Fourth Row](/img/FinalRevisions4.png)
+![Final Table: Fifth Row](/img/FinalRevisions5.png)
+
 ## Two of Our Revisions, In More Detail
 
 ### First Revision
