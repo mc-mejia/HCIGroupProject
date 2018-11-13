@@ -2,33 +2,58 @@
 
 ## Prototype:
 
-[link to prototype] (https://invis.io/8EP2UUMAVG7)
+[link to prototype](https://invis.io/8EP2UUMAVG7)
 
 
 ## Walk-Through:
 ### TASK 1: Facilitate Conversation and Collaboration About Art 
 Our watch uses location tracking to sense which work of art the user stands in front of. Then our home screen offers the user two options. They can either listen to other interpretations or record their own.
 
+![](sheep_home.png)
+
 If they click listen, then they are given a menu of options for different types of interpretations they can listen to. They can hear statements from others about how the work of art made them feel, they can listen to questions about the art, they can hear expert interpretations of the art or hear controversial interpretations. The user clicks on the catagory that corresponds to their interest. 
+
+![](sheep_categories.png)
 
 Once the category is selected, the screen changes to display buttons that can pause, play, fastforward, or rewind the audio, and the interpretations start playing.
 
+![](sheep_listening.png)
+
 In the event that other users have responded to a particular interpretation, a notification pops up alerting the user to the chain and allowing them to listen to the responses, if they so choose. On the left of the screen are a series of numbered buttons that correspond to responses in the chain, which prevents the user from having to listen to all interpretations.
 
-The listening screen is again displayed while they listen to these responses. 
+![](sheep_chatcheck.png)
 
-Once done listening, the screen again changes to allow the user to choose to respond to the interpretation.
+The community chat screen is displayed while they listen to these responses. 
 
-If the user chooses to respond, the recording screen would then appear to allow them to create this response.
+![](listening.png)
+
 
 ### Task 2: Recieve Rewards and Validation for Interpretations 
 The user can either choose listen to other interpretations or record their own.
 
-If they choose record, the recording screen provides a status bar that allows a user to know when the watch has started recording. They also have the option to stop and restart the recording at any time.
+If they choose record, the recording screen appears.
 
-The watch enters their recording into their database and quickly analyzes it. If in the recording, the user provides insights that are similar to expert opinions or provides some sort of unique feedback. The user will then be notified on the watch, and this screen will appear to confirm the validation of their interpretation.
+![](sheep_record.png)
 
-This screen will also correspond to a reward of some sort (either a discount at the giftshop or an invitation to view special collections in the museums or an invitation to a special event in the museum for frequent interpretters to discuss art and enjoy the museum space as the setting for a party!)
+After they have recordeed something, the submit and redo buttons are activated.
+
+![](sheep_recorded.png)
+
+If they attempt to leave without submitting, a warning is displayed.
+
+![](sheep_warning.png)
+
+Once submitted, a confirmation pops up.
+
+![](sheep_submitted.png)
+
+Sometimes, the user will receive a reward in the form of a star for their interpretations. This could happen every time they have reached a milestone of submitting 10 interpretations. If this is their first star, they will receive an explanation.
+
+![](sheep_stardetails.png)
+
+Otherwise, the star screen is displayed with no explanation.
+
+![](sheep_star.png)
 
 ## Changes:
 
