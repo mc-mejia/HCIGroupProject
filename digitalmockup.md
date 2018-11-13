@@ -2,7 +2,7 @@
 
 ## Prototype:
 
-https://invis.io/8EP2UUMAVG7
+[link to prototype] (https://invis.io/8EP2UUMAVG7)
 
 
 ## Walk-Through:
