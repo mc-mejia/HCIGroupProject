@@ -37,6 +37,7 @@ navbar-links:
   Prototyping: 
   - Paper Prototype: "paperprototype"
   - Heuristic Evaluation: "heuristics"
+  - Digital Mock-Up: "digitalmockup"
   Usability Testing:
   - Usability Testing Check-In: "useTesting-CheckIn"
   - Usability Testing Review: "UxTestReview"
