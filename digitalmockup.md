@@ -25,7 +25,7 @@ In the event that other users have responded to a particular interpretation, a n
 
 The community chat screen is displayed while they listen to these responses. 
 
-![listening chat](/img/chat.png)
+![listening chat](/img/sheep_chat.png)
 
 
 ### Task 2: Recieve Rewards and Validation for Interpretations 
