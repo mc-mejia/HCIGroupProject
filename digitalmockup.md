@@ -21,7 +21,7 @@ Once done listening, the screen again changes to allow the user to choose to res
 
 If the user chooses to respond, the recording screen would then appear to allow them to create this response.
 
-### # Task 2: Recieve Rewards and Validation for Interpretations 
+### Task 2: Recieve Rewards and Validation for Interpretations 
 The user can either choose listen to other interpretations or record their own.
 
 If they choose record, the recording screen provides a status bar that allows a user to know when the watch has started recording. They also have the option to stop and restart the recording at any time.
