@@ -20,6 +20,16 @@ The listening screen is again displayed while they listen to these responses.
 Once done listening, the screen again changes to allow the user to choose to respond to the interpretation.
 
 If the user chooses to respond, the recording screen would then appear to allow them to create this response.
+
+### # Task 2: Recieve Rewards and Validation for Interpretations 
+The user can either choose listen to other interpretations or record their own.
+
+If they choose record, the recording screen provides a status bar that allows a user to know when the watch has started recording. They also have the option to stop and restart the recording at any time.
+
+The watch enters their recording into their database and quickly analyzes it. If in the recording, the user provides insights that are similar to expert opinions or provides some sort of unique feedback. The user will then be notified on the watch, and this screen will appear to confirm the validation of their interpretation.
+
+This screen will also correspond to a reward of some sort (either a discount at the giftshop or an invitation to view special collections in the museums or an invitation to a special event in the museum for frequent interpretters to discuss art and enjoy the museum space as the setting for a party!)
+
 ## Changes:
 
 We made only minute changes in transitioning from our paper prototype to digital mockup because we have revised our prototype so thoroughly. On our listening screen, we moved the location of the respond button because the dimensions of our watch differed from the prototype and it no longer fit well next to the ear icon .In addition, we created a unified color scheme for all of our screens and chose one font (Skia) to be represented all throughout our smartwatch application. We also designed a unified home button, back button, exit button and play/pause screen.	
