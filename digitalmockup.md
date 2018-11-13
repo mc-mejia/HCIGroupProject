@@ -49,7 +49,7 @@ Once submitted, a confirmation pops up.
 
 Sometimes, the user will receive a reward in the form of a star for their interpretations. This could happen every time they have reached a milestone of submitting 10 interpretations. If this is their first star, they will receive an explanation.
 
-![star details](/img/sheep_stardetails.png)
+![star details](/img/sheep_stardetails.pmg)
 
 Otherwise, the star screen is displayed with no explanation.
 
