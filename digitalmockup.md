@@ -9,23 +9,23 @@
 ### TASK 1: Facilitate Conversation and Collaboration About Art 
 Our watch uses location tracking to sense which work of art the user stands in front of. Then our home screen offers the user two options. They can either listen to other interpretations or record their own.
 
-![](sheep_home.png)
+![home](sheep_home.png)
 
 If they click listen, then they are given a menu of options for different types of interpretations they can listen to. They can hear statements from others about how the work of art made them feel, they can listen to questions about the art, they can hear expert interpretations of the art or hear controversial interpretations. The user clicks on the catagory that corresponds to their interest. 
 
-![](sheep_categories.png)
+![categories](sheep_categories.png)
 
 Once the category is selected, the screen changes to display buttons that can pause, play, fastforward, or rewind the audio, and the interpretations start playing.
 
-![](sheep_listening.png)
+![listening](sheep_listening.png)
 
 In the event that other users have responded to a particular interpretation, a notification pops up alerting the user to the chain and allowing them to listen to the responses, if they so choose. On the left of the screen are a series of numbered buttons that correspond to responses in the chain, which prevents the user from having to listen to all interpretations.
 
-![](sheep_chatcheck.png)
+![chatcheck](sheep_chatcheck.png)
 
 The community chat screen is displayed while they listen to these responses. 
 
-![](listening.png)
+![listening chat](chat.png)
 
 
 ### Task 2: Recieve Rewards and Validation for Interpretations 
@@ -33,27 +33,27 @@ The user can either choose listen to other interpretations or record their own.
 
 If they choose record, the recording screen appears.
 
-![](sheep_record.png)
+![record](sheep_record.png)
 
 After they have recordeed something, the submit and redo buttons are activated.
 
-![](sheep_recorded.png)
+![recorded](sheep_recorded.png)
 
 If they attempt to leave without submitting, a warning is displayed.
 
-![](sheep_warning.png)
+![warning](sheep_warning.png)
 
 Once submitted, a confirmation pops up.
 
-![](sheep_submitted.png)
+![submitted](sheep_submitted.png)
 
 Sometimes, the user will receive a reward in the form of a star for their interpretations. This could happen every time they have reached a milestone of submitting 10 interpretations. If this is their first star, they will receive an explanation.
 
-![](sheep_stardetails.png)
+![star details](sheep_stardetails.png)
 
 Otherwise, the star screen is displayed with no explanation.
 
-![](sheep_star.png)
+![stars](sheep_star.png)
 
 ## Changes:
 
