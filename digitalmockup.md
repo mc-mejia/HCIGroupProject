@@ -2,6 +2,8 @@
 
 ## Prototype:
 
+![overview](/img/DMoverview.png)
+
 [link to prototype](https://invis.io/8EP2UUMAVG7)
 
 
