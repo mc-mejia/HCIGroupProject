@@ -41,6 +41,7 @@ navbar-links:
   Usability Testing:
   - Usability Testing Check-In: "useTesting-CheckIn"
   - Usability Testing Review: "UxTestReview"
+  Final Report: "FinalReport"
 
 avatar: "/img/avatar-icon.png"
 
