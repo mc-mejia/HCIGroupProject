@@ -1,7 +1,7 @@
 # CreArting InterprArt:
 ## A Final Report of our User Experience Design
 
-Group Members: Abby Miller, Grace Murray, Maria Mejia
+Group members: Abby Miller, Grace Murray, Maria Mejia
 
 Rotating roles: Designated Delegator, Creative Consult, Logic Liaison
 
