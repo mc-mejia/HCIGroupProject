@@ -11,8 +11,7 @@ Rotating roles: Designated Delegator, Creative Consult, Logic Liaison
 
 ![paper prototype overview](/img/annotatedoverviewpp.jpg)
 
-We developed our initial paper prototype using sticky notes and simple drawings. We used a piece of tape on our template to hold down the sticky notes, which tend to curl up. We had only 7 screens, which we used to support our two tasks: Facilitate conversation about art and Receive rewards/validation. Both of these tasks are supported by the two main functions of InterprArt: recording interpretations and listening to interpretations. Thus, the structure of our prototype begins with a home screen on which the user selects either Listen or Record, and subsequent screens then support that choice. The Listen and Record branches do intersect at certain points, like if a user chooses to record a  response to an interpretation she is listening to. In this initial iteration of our prototype, the Facilitate Conversation task consisted of: selecting Listen (screen A), choosing a category of interpretations to listen to (Screen B), noticing that a Chain Listen screen has appeared (indicating a pre-existing conversation thread), selecting a numbered response to listen to (Screen D), and choosing to respond or not to the thread(Screen E). Our Receive Validation task consisted of: selecting Record (Screen A), using the recording screen to submit your interpretation (Screen F), and noticing that you have received a star for your interpretation if it met some criteria (Screen G). 
-
+We developed our initial paper prototype using sticky notes and simple drawings. We used a piece of tape on our template to hold down the sticky notes, which tend to curl up. We had only 7 screens, which we used to support our two tasks: Facilitate conversation about art and Receive rewards/validation. Both of these tasks are supported by the two main functions of InterprArt: recording interpretations and listening to interpretations. Thus, the structure of our prototype begins with a home screen on which the user selects either Listen or Record, and subsequent screens then support that choice. The Listen and Record branches do intersect at certain points, like if a user chooses to record a  response to an interpretation she is listening to. In this initial iteration of our prototype, the Facilitate Conversation task consisted of: selecting Listen (screen A), choosing a category of interpretations to listen to (Screen B), noticing that a Chain Listen screen has appeared (indicating a pre-existing conversation thread), selecting a numbered response to listen to (Screen D), and choosing to respond or not to the thread(Screen E). Our Receive Validation task consisted of: selecting Record (Screen A), using the recording screen to submit your interpretation (Screen F), and noticing that you have received a star for your interpretation if it met some criteria (Screen G).
 
 ## Testing Process
 
@@ -47,3 +46,8 @@ This scheme maintains the general idea of our original color scheme, but refines
 ## Discussion
 
 ## Appendix
+[Paper Prototype](http://mc-mejia.github.io/HCIGroupProject/paperprototype/).
+[Heuristic Evaluation](http://mc-mejia.github.io/HCIGroupProject/heuristics/).
+[Digital Mock-Up](http://mc-mejia.github.io/HCIGroupProject/digitalmockup/).
+[Usability Testing Check-In](http://mc-mejia.github.io/HCIGroupProject/useTesting-CheckIn/).
+[Usability Testing Review](http://mc-mejia.github.io/HCIGroupProject/useTesting-CheckIn/). 
