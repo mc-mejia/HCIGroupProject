@@ -66,3 +66,6 @@ This project has taught us about the importance of separation between user and d
 
 
 [Usability Testing Review](http://mc-mejia.github.io/HCIGroupProject/useTesting-CheckIn/). 
+
+[Presentation](/UnderstandingToMakePresentation.pdf).
+
