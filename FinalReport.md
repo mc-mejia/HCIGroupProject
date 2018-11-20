@@ -23,7 +23,9 @@ Each of the tests we conducted led to many revisions of our design. From our heu
 
 _Example Changes From Our Heuristic Evaluation_
 ![revisedHeuristics](/img/rh.png)
+
 _Example Changes From Our Usability Testing_
+
 ![revisedPP](/img/rpp.png)
 
 ## Final Paper Prototype
