@@ -22,9 +22,9 @@ First, we conducted two heuristic evaluations with students who were familiar wi
 Each of the tests we conducted led to many revisions of our design. From our heuristic evaluation, we realized that most of our screens were missing ways to exit so we added home buttons and back buttons. We also realized that many of our screens needed clearer instructions to explain how the user should use them. For example, testers did not understand our rewards system for offering interpretations and did not understand what it meant to listen to a thread. We also forgot to put a time bar under the recording screen so the user could not see how long their recording was. Finally we edited some of our icons to better align with our testers’ mental imagery.  Our usability test inspired further changes to our prototype. We realized that we add no button to skip ahead to a new interpretation so we added next and previous buttons to our listening screens.We also realized that our recording screen did not allow the user to stop recording so we added separate stop and submit buttons so that the user could consider their recording before submitting it. We also added pop-up instruction windows to explain the rewards system and to check to make sure that a user wanted to leave a window without submitting their interpretation. 
 
 _Example Changes From Our Heuristic Evaluation_
-![revisedHeuristics](/img/rh.jpg)
+![revisedHeuristics](/img/rh.png)
 _Example Changes From Our Usability Testing_
-![revisedPP](/img/rpp.jpg)
+![revisedPP](/img/rpp.png)
 
 ## Final Paper Prototype
 
