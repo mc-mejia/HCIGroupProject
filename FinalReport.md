@@ -30,6 +30,7 @@ _Example Changes From Our Usability Testing_
 ![revisedPP](/img/rpp.png)
 
 ## Final Paper Prototype
+![Final paper prototype](/img/FinalOverview.jpeg)
 
 The final paper prototype was created by considering all the critiques and evaluations made on our initial prototype, which mostly had to do with user feedback. The most evolved screens would be our community chat screen and the recording screen. The recording screen now provides a clear way to submit an interpretation and the actual record button changes symbols to signal when a user begins to record their interpretation. By changing the word “chain” to “community chat” in our threads of messages, we hope to avoid our initial problem of confusion about the meaning of the word “chain” on the (now) community chat screen. Also, we made sure to add home and back buttons to all our screens so that users can navigate through the design easily. Our first task was to have a user submit a recording on a piece of art that they are interested, which travels from the home screen (Listen | Record) to the congrats or submitted screen. The second task is when a user decides to listen to other interpretations on another piece of art that piqued their interest. The tasks starts by pressing the “Listen” button on the home page and ends with a screen that contains one recording with the options to navigate between similar interpretations or further comments. 
 
