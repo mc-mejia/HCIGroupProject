@@ -7,6 +7,8 @@ Rotating roles: Designated Delegator, Creative Consult, Logic Liaison
 
 ## Problem and Solution Overview
 
+There are various categories of people that visit museums, but one category in particular, college students, does not necessarily enjoy the museum-going experience. Many young adults do not consider themselves experts in art or art history. And as a result, college students continuously have less interest and motivation to walk around a museum space and express their thoughts on a piece of art. This lack of participation can stem from a variety of factors such as anxiety on being wrong, a lack of understanding on certain areas of art, or from disapproval of the notion of correct interpretations of art. We decided to provide a solution for anxious students and interpretive rebels alike by providing a digital platform where users can feel heard about their views or opinions on pieces of art specifically at the Williams College Museum of Art (WCMA). The decision to create this discussion as a smart watch design allows the user to be hands-free and mobile during their museum visit so as not to distract from the art itself. Users have the option to either listen or record interpretations and are provided a browsing feature of current interpretations on topics they may find interesting. 
+
 ## Initial Paper Prototype
 
 ![paper prototype overview](/img/annotatedoverviewpp.jpg)
@@ -29,6 +31,8 @@ _Example Changes From Our Usability Testing_
 
 ## Final Paper Prototype
 
+The final paper prototype was created by considering all the critiques and evaluations made on our initial prototype, which mostly had to do with user feedback. The most evolved screens would be our community chat screen and the recording screen. The recording screen now provides a clear way to submit an interpretation and the actual record button changes symbols to signal when a user begins to record their interpretation. By changing the word “chain” to “community chat” in our threads of messages, we hope to avoid our initial problem of confusion about the meaning of the word “chain” on the (now) community chat screen. Also, we made sure to add home and back buttons to all our screens so that users can navigate through the design easily. Our first task was to have a user submit a recording on a piece of art that they are interested, which travels from the home screen (Listen | Record) to the congrats or submitted screen. The second task is when a user decides to listen to other interpretations on another piece of art that piqued their interest. The tasks starts by pressing the “Listen” button on the home page and ends with a screen that contains one recording with the options to navigate between similar interpretations or further comments. 
+
 ## Digital Mockup
 
 ![digital mockup overview](/img/DMoverview.png)
@@ -44,6 +48,8 @@ Pink and red are two key colors in our logo design, but in attempting to include
 This scheme maintains the general idea of our original color scheme, but refines it and tones it down.
 
 ## Discussion
+
+This project has taught us about the importance of separation between user and designer. Since we are all college students, we wanted to create an app that would cater to our needs, but neglected to consider other types of users. Because of this, our app for art amateurs became one of many digital discussion boards produced by the overall class. Our ideas became similar because we all projected our point of view as college students on to the potential and current visitors of WCMA. Furthermore, the process of iterative design validated our confidence with trial and error. We were much more willing to pitch new ideas and have them rejected as opposed to constantly stressing over one idea and hoping that it ends up being right. It helped us get rid of any preconceived notions or assumptions we had about our project not necessarily by illuminating the “correct” design path, but rather by crossing out the designs that cannot function and allowing us the freedom to find new methods or ideas that would work with our own interests. Our final design, as a result of this process, is far from the original image that anyone in InterprArt initially visualized. The smartwatch design process forced us to learn that “less is more” and our initial task flows would be too complicated and a more streamlined version would be favorable to users. This intuitively makes sense because less actions means less room for confusion. Despite our own intuitions and the helpful testing participants, we would have benefitted from more iterations upon our design. More specifically, it would have been nice to create iterations of our design with smaller changes among them as we learn different topics in Human-Computer Interaction (HCI). For example, we could have tested the functionality of our design in black and white and added color after we were introduced to color theory. 
 
 ## Appendix
 [Paper Prototype](http://mc-mejia.github.io/HCIGroupProject/paperprototype/).
