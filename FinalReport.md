@@ -47,7 +47,15 @@ This scheme maintains the general idea of our original color scheme, but refines
 
 ## Appendix
 [Paper Prototype](http://mc-mejia.github.io/HCIGroupProject/paperprototype/).
+
+
 [Heuristic Evaluation](http://mc-mejia.github.io/HCIGroupProject/heuristics/).
+
+
 [Digital Mock-Up](http://mc-mejia.github.io/HCIGroupProject/digitalmockup/).
+
+
 [Usability Testing Check-In](http://mc-mejia.github.io/HCIGroupProject/useTesting-CheckIn/).
+
+
 [Usability Testing Review](http://mc-mejia.github.io/HCIGroupProject/useTesting-CheckIn/). 
