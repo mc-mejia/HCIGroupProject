@@ -42,6 +42,7 @@ navbar-links:
   - Usability Testing Check-In: "useTesting-CheckIn"
   - Usability Testing Review: "UxTestReview"
   Final Report: "FinalReport"
+  Appendix: "appendix"
 
 avatar: "/img/avatar-icon.png"
 
