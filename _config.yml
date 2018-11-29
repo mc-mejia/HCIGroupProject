@@ -23,24 +23,8 @@ description: Created by Abby Miller, Grace Murray, and Maria Mejia
 
 # List of links in the navigation bar
 navbar-links:
-  General:
-  - Proposal: "proposal"
-  - Contract: "contract"
-  UX Research:
-  - Contextual Inquiry Plan: "ContextualInquiry"
-  - CI Check In: "CI-checkin"
-  - CI Review: "CI-review"
-  - Task Review: "TaskReview"
-  - 3x4: "Design3x4"
-  - 1x2: "Design1x2"
-  - Overview: "uxResearchOverview"
-  Prototyping: 
-  - Paper Prototype: "paperprototype"
-  - Heuristic Evaluation: "heuristics"
-  - Digital Mock-Up: "digitalmockup"
-  Usability Testing:
-  - Usability Testing Check-In: "useTesting-CheckIn"
-  - Usability Testing Review: "UxTestReview"
+  Group Contract: "contract"
+  Research Overview: "uxResearchOverview"
   Final Report: "FinalReport"
   Appendix: "appendix"
 
