@@ -23,7 +23,7 @@ description: Created by Abby Miller, Grace Murray, and Maria Mejia
 
 # List of links in the navigation bar
 navbar-links:
-  Group Contract: "contract"
+  Contract: "contract"
   Research Overview: "uxResearchOverview"
   Final Report: "FinalReport"
   Appendix: "appendix"
