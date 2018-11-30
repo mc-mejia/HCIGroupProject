@@ -26,8 +26,8 @@ navbar-links:
   Contract: "contract"
   Research Overview: "uxResearchOverview"
   Final Report: "FinalReport"
+  Video Prototype: "video"
   Appendix: "appendix"
-  Video: "video"
 avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
