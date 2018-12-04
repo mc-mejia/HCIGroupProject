@@ -14,7 +14,7 @@ baseurl: "/HCIGroupProject"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: HCI
+title: InterprArt
 
 # Short description of your site
 description: Created by Abby Miller, Grace Murray, and Maria Mejia
@@ -28,11 +28,12 @@ navbar-links:
   Final Report: "FinalReport"
   Video Prototype: "video"
   Appendix: "appendix"
-avatar: "/img/avatar-icon.png"
+
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/avatar-icon.png"
+title-img: "/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
