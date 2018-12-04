@@ -1,5 +1,8 @@
-# CreArting InterprArt:
-## A Final Report of our User Experience Design
+---
+layout: page
+title: CreArting InterprArt
+subtitle: A Final Report of Our User Experience Design
+---
 
 Group members: Abby Miller, Grace Murray, Maria Mejia
 
