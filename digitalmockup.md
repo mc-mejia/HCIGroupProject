@@ -13,7 +13,7 @@ Our watch uses location tracking to sense which work of art the user stands in f
 
 ![home](/img/sheep_home.png)
 
-If they click listen, then they are given a menu of options for different types of interpretations they can listen to. They can hear statements from others about how the work of art made them feel, they can listen to questions about the art, they can hear expert interpretations of the art or hear controversial interpretations. The user clicks on the catagory that corresponds to their interest. 
+If they click listen, then they are given a menu of options for different types of interpretations they can listen to. They can hear statements from others about how the work of art made them feel, they can listen to questions about the art, they can hear expert interpretations of the art or hear controversial interpretations. The user clicks on the category that corresponds to their interest. 
 
 ![categories](/img/sheep_categories.png)
 
