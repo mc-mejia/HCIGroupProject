@@ -29,11 +29,11 @@ navbar-links:
   Video Prototype: "video"
   Appendix: "appendix"
 
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/HCIGroupProject/gh-pages/img/logo.png"
+title-img: "img/logo.png"
 
 # --- Background colour/image options --- #
 
